@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Tarek</h1>
-<h3 align="center">iOS Developer @ AAIT</h3>
+<h3 align="center"> iOS Software Engineer | FinTech @ PaySky</h3>
 
 - 🔭 I’m currently working on **AAIT**
 
@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **abdalla.taarek@gmail.**
 
-- 📄 Know about my experiences [https://bit.ly/AbdullahTarekVC](https://bit.ly/AbdullahTarekVC)
+- 📄 Know about my experiences [CV]([https://bit.ly/AbdullahTarekVC](https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/3bdullahtarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/3bdullahtarek/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/3bdullahtarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/3bdullahtarek/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
