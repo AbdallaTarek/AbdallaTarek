@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdalla.taarek@gmail.**
 
-- 📄 Know about my experiences [CV]([https://bit.ly/AbdullahTarekVC](https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link))
+- 📄 Know about my experiences [https://bit.ly/AbdullahTarekVC](https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
