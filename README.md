@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Tarek</h1>
 <h3 align="center"> iOS Software Engineer | FinTech @ PaySky</h3>
 
-- 🔭 I’m currently working on **AAIT**
+- 🔭 I’m currently working on **PaySky**
 
 - 🌱 I’m currently learning **Advanced SwiftUI with MVVM-C and Combine**
 
