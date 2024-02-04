@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **PaySky**
 
-- 🌱 I’m currently learning **Advanced SwiftUI with MVVM-C and Combine**
+- 🌱 I’m currently learning **Advanced SwiftUI with MVVM-C and Combine // Security on iOS App**
 
-- 💬 Ask me about **iOS and software development**
+- 💬 Ask me about **iOS and Software development**
 
-- 📫 How to reach me **abdalla.taarek@gmail.**
+- 📫 How to reach me **abdalla.taarek@gmail.com // abdullah.tarek@paysky.io**
 
 - 📄 Know about my experiences [https://bit.ly/AbdullahTarekVC](https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link)
 
