@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdalla.taarek@gmail.com // abdullah.tarek@paysky.io**
 
-- 📄 Know about my experiences [https://bit.ly/AbdullahTarekVC](https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link)
+- 📄 Know about my experiences [portfolio]([https://drive.google.com/file/d/1QveMJvK0qjmVlmaGRFK8R9PWMrcUUDoj/view?usp=drive_link](https://bit.ly/abdullah-tarek-iOS))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
