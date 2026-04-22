@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Tarek</h1>
 <h3 align="center"> iOS Software Engineer | FinTech @NTG, Ex-PaySky</h3>
 
-- 🔭 I’m currently working on **PaySky**
+- 🔭 I’m currently working on **NTG**
 
 - 🌱 I’m currently learning **Advanced SwiftUI with MVVM-C and Combine // Security on iOS App**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdalla.taarek@gmail.com // abdullah.tarek@paysky.io**
 
-- 📄 Know about my experiences [https://bit.ly/abdullah-tarek-iOS](https://bit.ly/abdullah-tarek-iOS)
+- 📄 Know about my experiences [https://abdullahtarekios.netlify.app](https://abdullahtarekios.netlify.app)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
