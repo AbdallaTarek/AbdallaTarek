@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **iOS and Software development**
 
-- 📫 How to reach me **abdalla.taarek@gmail.com // abdullah.tarek@paysky.io**
+- 📫 How to reach me **abdalla.taarek@gmail.com // atarek@ntgclarity.com**
 
 - 📄 Know about my experiences [https://abdullahtarekios.netlify.app](https://abdullahtarekios.netlify.app)
   
