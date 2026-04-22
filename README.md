@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Tarek</h1>
-<h3 align="center"> iOS Software Engineer | FinTech @ PaySky</h3>
+<h3 align="center"> iOS Software Engineer | FinTech @NTG, Ex-PaySky</h3>
 
 - 🔭 I’m currently working on **PaySky**
 
